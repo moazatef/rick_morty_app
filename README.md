@@ -7,12 +7,11 @@ A Flutter application that fetches and displays characters from the Rick and Mor
 - Shows character details such as name, status, species, and image.
 
 ## Screenshots
+![screen from app]![reg](![WhatsApp Image 2024-07-29 at 15 09 47_a4beb688](![WhatsApp Image 2024-07-31 at 11 26 41_ac93be4a](https://github.com/user-attachments/assets/014c3f5d-2cd3-4fc7-b36d-57197c26e514)
+)
+)
+()
 
-<!-- Add screenshots of your app here -->
-<!-- ![Screenshot](screenshots/screensh![WhatsApp Image 2024-07-31 at 11 26 41_ac93be4a](https://github.com/user-attachments/assets/5de7749a-5675-4538-90c7-893e37c1bb45)
-ot1.png) -->
-<!-- ![Screenshot](screenshots/![WhatsApp Image 2024-07-31 at 11 26 40_b8274539](https://github.com/user-attachments/assets/45359a2e-bd0a-4842-b6d6-18b22e17b180)
-screenshot2.png) -->
 
 ## Getting Started
 
