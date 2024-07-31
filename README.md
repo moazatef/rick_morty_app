@@ -1,16 +1,25 @@
-# rick_morty_app
+# Rick and Morty Characters App
 
-A new Flutter project.
+A Flutter application that fetches and displays characters from the Rick and Morty API. 
+## Features
+
+- Fetches and displays characters from the Rick and Morty API.
+- Shows character details such as name, status, species, and image.
+
+## Screenshots
+
+<!-- Add screenshots of your app here -->
+<!-- ![Screenshot](screenshots/screensh![WhatsApp Image 2024-07-31 at 11 26 41_ac93be4a](https://github.com/user-attachments/assets/5de7749a-5675-4538-90c7-893e37c1bb45)
+ot1.png) -->
+<!-- ![Screenshot](screenshots/![WhatsApp Image 2024-07-31 at 11 26 40_b8274539](https://github.com/user-attachments/assets/45359a2e-bd0a-4842-b6d6-18b22e17b180)
+screenshot2.png) -->
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Installation
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone the repository:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/moazatef/rick_morty_app.git
+cd rick_morty_app
