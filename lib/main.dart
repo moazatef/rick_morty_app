@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:rick_morty_app/features/characters%20names/page/charcter_page_list.dart';
 
 void main() {
   runApp(const MyApp());
@@ -14,7 +15,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: ,
+      home: const CharacterListPage(),
     );
   }
 }
